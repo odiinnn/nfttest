@@ -1,25 +1,11 @@
 {
     "tokens": [
         {
-            "id": 0,
-            "description": "S99 start",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "name": "S99",
+            "description": "S99 start",         
             "image": "https://rataku.com/i/ed1nL",
-            "name": "S99"
-        },
-        {
-           "id": 1,
-            "description": "S99 start",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://rataku.com/i/ed1nL",
-            "name": "S99"
-        },
-        {
-           "id": 2,
-            "description": "S99 start",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://rataku.com/i/ed1nL",
-            "name": "S99"
-        }
+            "strength": 20
+            
+        }            
     ]
 }
