@@ -1,19 +1,21 @@
 {
 
     "token": [
-        {
-            "id": 1,
-            "name": "Thor's hammer",
-            "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
-            "image": "https://rataku.com/i/ed1nL",
-            "strength": 20
-        },
-        {
-            "id": 2,
-            "name": "Thor",
-            "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
-            "image": "https://rataku.com/i/ed1nL",
-            "strength": 20
-        },
+            {
+                "id": 1,
+                "name": "Thor's hammer",
+                "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+                "image": "https://rataku.com/i/ed1nL",
+                "strength": 20
+            },
+        ],
+        "qwer": [
+            {
+                "id": 1,
+                "name": "Thor",
+                "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+                "image": "https://rataku.com/i/ed1nL",
+                "strength": 20
+            },
     ]
 }
