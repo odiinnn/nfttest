@@ -7,7 +7,7 @@
                 "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
                 "image": "https://rataku.com/i/ed1nL",
                 "strength": 20
-            },
+            }
         ],
         "qwer": [
             {
@@ -17,5 +17,5 @@
                 "image": "https://rataku.com/i/ed1nL",
                 "strength": 20
             },
-    ]
+        ]
 }
