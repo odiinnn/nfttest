@@ -1,24 +1,10 @@
 {
-
-            {
-                "id": 0,
-                "name": "Hello S99 community",
-                "description": "Hello world",
-                "image": "https://s99.info/static/admin/img/logo1.ico"
-            },
-            {
-                "id": 1,
-                "name": "S99 start",
-                "description": "Start",
-                "image": "https://s99.info/static/admin/img/logo1.ico"
-            },
-            {
-                "id": 2,
-                "name": "S99",
-                "description": "Hello world",
-                "image": "https://s99.info/static/admin/img/logo1.ico"
-            }        
+            "id": 0,
+            "name": "Hello S99 community",
+            "description": "Hello world",
+            "image": "https://s99.info/static/admin/img/logo1.ico"
 }
+           
 
 
     
